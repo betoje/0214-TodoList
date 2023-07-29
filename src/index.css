@@ -48,6 +48,10 @@ code {
   justify-content: space-between;
 }
 
+.todo:hover {
+  background-color: beige;
+}
+
 .input{
   background-color: antiquewhite;
   width: 100%;
